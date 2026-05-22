@@ -1,1 +1,5 @@
 C:\Users\oalim\OneDrive\Dokumente\GitHub\Banking-System\.idea\misc.xml
+*.xml
+/build
+*.iml
+*.properties
