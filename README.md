@@ -44,5 +44,7 @@ A Banking Management System developed using Java with Swing GUI.
 ## How to Run
 
 1. Open the project in IntelliJ IDEA or NetBeans
-2. Compile the project
-3. Run the `Main.java` file
+2. Download this library  https://repo1.maven.org/maven2/com/formdev/flatlaf/3.4.1/flatlaf-3.4.1.jar
+3. Add the file in the project libaray in your IDE
+4. Compile the project
+5. Run the `BankManagementSystem.java` file
